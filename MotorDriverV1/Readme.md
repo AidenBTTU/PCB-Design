@@ -1,0 +1,1 @@
+The motor driver pcb designed in this folder was designed to operate with 6V TT Motors from a Raspberry Pi Pico. A signal voltage taken off a shunt resistor is amplified on board to be sent to a seperate overcurrent detection board. The PCB is designed to be operated with 2-4 TT motors controlled in pairs. Connectors are designed with the Raspberry Pi Pico in mind 
